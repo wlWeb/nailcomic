@@ -46,18 +46,18 @@
 <div class="mouse-bg">
   <div id="background" class="background-anim animated fadeIn">
   </div>
-    <div id="foreground" class="right-anim animated-sloow animation-delay-20 slideInLeft">   
+    <div id="foreground" class="right-anim animated-sloow animation-delay-40 slideInLeft">   
   </div>
-  <div id="fore-foreground" class="left-anim animated animation-delay-18 fadeInRight">
+  <div id="fore-foreground" class="left-anim animated animation-delay-38 fadeInRight">
   </div>
 
   
-  <div class="overlay-anim animated-sloow fadeInOverlay animation-delay-35"></div>
+  <div class="overlay-anim animated-sloow fadeInOverlay animation-delay-45"></div>
   <div id="fore-fore-foreground" class="embers-anim animated-sloow fadeIn animation-delay-15">
   </div>
 </div>
 
-<div class="site-wrap animated animation-delay-25 fadeIn">
+<div class="site-wrap animated animation-delay-35 fadeIn">
   <div class="container-fluid section-wrap-h">
     <div class="row content-header d-flex align-items-center">
       <div class="col-lg-2 col-md-12 offset-lg-3 text-lg-right text-center text-sm-center">
